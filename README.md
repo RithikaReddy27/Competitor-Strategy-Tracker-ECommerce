@@ -25,7 +25,3 @@ This project focuses on creating a real-time competitive intelligence tool for e
 ### 3. Predictive Modeling (ARIMA)
 - Collect historical pricing data from competitors.
 - Use **ARIMA** to predict future pricing trends based on the historical data.
-
-### 4. Slack Integration
-- Set up a **Slack webhook** to send notifications.
-- Trigger notifications when competitor pricing or sentiment changes.
